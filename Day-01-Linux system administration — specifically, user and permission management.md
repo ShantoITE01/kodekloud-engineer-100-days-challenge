@@ -69,3 +69,5 @@ sudo passwd john
 
 
 Finish: go back to the lab UI and press Check to validate the task.
+
+![Image Alt]()
