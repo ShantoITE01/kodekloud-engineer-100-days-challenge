@@ -1,4 +1,5 @@
 English side (Step by step)
+
 My first ticket was related to Linux system administration — specifically, user and permission management.
 
 🧩 Task Summary:
