@@ -1,5 +1,7 @@
 English side (Step by step)
 
+Day-01-Linux system administration — specifically, user and permission management
+
 My first ticket was related to Linux system administration — specifically, user and permission management.
 
 🧩 Task Summary:
