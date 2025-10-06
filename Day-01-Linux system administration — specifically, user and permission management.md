@@ -70,4 +70,4 @@ sudo passwd john
 
 Finish: go back to the lab UI and press Check to validate the task.
 
-![Image Alt]()
+![Image Alt](https://github.com/ShantoITE01/kodekloud-engineer-100-days-challenge/blob/2c6ea0fc6ebab7825cc8a33c45ea3eaffb002fb4/Screenshot%202025-10-06%20223722.png)
