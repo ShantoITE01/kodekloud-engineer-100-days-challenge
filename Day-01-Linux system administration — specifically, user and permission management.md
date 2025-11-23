@@ -27,13 +27,17 @@ SSH into the server:
 
 ssh steve@stapp02
 
+---
+
 Remember:SSH command-এর ফরম্যাট হলো:
 
 ssh username@server_ip (মানে তুমি যেই username হিসেবে ওই সার্ভারে ঢুকবে, সেটাই লিখতে হবে।)
 
 তোমার username = steve
 
-যেই server-এ ঢুকতে চাও তার IP = 192.168.1.10 but here @stapp02
+যেই server-এ ঢুকতে চাও তার IP = 192.168.1.10 but here stapp02
+
+---
 
 When prompted, enter password: Am3ric@
 
