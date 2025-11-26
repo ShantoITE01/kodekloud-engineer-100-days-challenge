@@ -121,4 +121,4 @@ sudo usermod -aG nautilus_noc mohammed
 
 ---
 
-If you want, I can also create a **Day-01 GitHub README template** for your whole DevOps journey.
+
